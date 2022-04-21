@@ -2,6 +2,8 @@
 
 ✨ Encuentra tus pokemones favoritos y descubre todas sus habilidades para convertirte en el mejor Maestro Pokemón usando REDUX.
 
+![Captura de pokemones](.readme-static/captura.png)
+
 ## 🚀 Instalación
 
 1. Clona este proyecto.
@@ -17,6 +19,7 @@
 1. Una vez instaladas las dependencias, puedes hacer el build
    `yarn build`
 
+[Ver la app en producción](https://pokedux-three.vercel.app)
 ## 🦀 Base de Datos Pokemon
 
 Todos los datos vienen de [PokeApi](https://pokeapi.co/)
